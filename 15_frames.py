@@ -17,6 +17,6 @@ btn_A.pack(side=LEFT)
 btn_S.pack(side=LEFT)
 btn_D.pack(side=LEFT)
 
-frame.place(x=250, y=250)
+frame.place(x=10, y=10)
 
 window.mainloop()
